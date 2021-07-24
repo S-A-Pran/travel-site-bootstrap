@@ -1,0 +1,15 @@
+.place{
+    transform: scale(1.5);
+}
+.subscribe{
+    background-image: url(../images/subscribe.jpg);
+    height: 200px;
+    background-color: gray;
+}
+.mail{
+    width: 400px;
+    height: 50px;
+}
+.mail-btn{
+    height: 50px;
+}
